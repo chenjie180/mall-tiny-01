@@ -8,6 +8,6 @@ public class MallTiny01Application {
 
     public static void main(String[] args) {
         SpringApplication.run(MallTiny01Application.class, args);
+    System.out.println("sss");
     }
-
 }

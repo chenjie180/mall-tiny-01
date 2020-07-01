@@ -1,4 +1,4 @@
-package com.macro.mall.tiny.mbg;
+package cn.com.sparknet.malltiny01.mbg;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;

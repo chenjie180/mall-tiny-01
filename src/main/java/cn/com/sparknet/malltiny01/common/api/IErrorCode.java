@@ -1,4 +1,4 @@
-package com.macro.mall.tiny.common.api;
+package cn.com.sparknet.malltiny01.common.api;
 
 /**
  * 封装API的错误码

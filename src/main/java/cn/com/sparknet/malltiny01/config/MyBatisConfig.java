@@ -1,4 +1,4 @@
-package com.macro.mall.tiny.config;
+package cn.com.sparknet.malltiny01.config;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
@@ -8,6 +8,6 @@ import org.springframework.context.annotation.Configuration;
  * Created by macro on 2019/4/8.
  */
 @Configuration
-@MapperScan("com.macro.mall.tiny.mbg.mapper")
+@MapperScan({"cn.com.sparknet.malltiny01.mbg.mapper","cn.com.sparknet.malltiny01.dao"})
 public class MyBatisConfig {
 }

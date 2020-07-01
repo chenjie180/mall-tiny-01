@@ -1,4 +1,4 @@
-package com.macro.mall.tiny.common.api;
+package cn.com.sparknet.malltiny01.common.api;
 
 /**
  * 枚举了一些常用API操作码
